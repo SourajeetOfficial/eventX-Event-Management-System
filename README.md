@@ -104,8 +104,8 @@ PUT    /api/dashboard/user/:id  - Update user role
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/eventx.git
-   cd eventx
+   git clone https://github.com/SourajeetOfficial/eventX-Event-Management-System.git
+   cd server
    ```
 
 2. **Install dependencies**
