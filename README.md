@@ -175,8 +175,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/SourajeetOfficial)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sourajeet-sahoo-29743025b/)
+- GitHub: [@SourajeetOfficial](https://github.com/SourajeetOfficial)
+- LinkedIn: [Sourajeet Sahoo](https://www.linkedin.com/in/sourajeet-sahoo-29743025b/)
 
 ## 🤝 Contributing
 
